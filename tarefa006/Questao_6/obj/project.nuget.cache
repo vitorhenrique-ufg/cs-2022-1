@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMelVIiCDafrvynTOk3CrpCna7+GsQ2DxakRH8kkc24dPKTELoLHAfjOR99T2fKq/a+JuZkihbOZIq2vfUKdNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows\\source\\repos\\Tarefa_06\\Questao_6\\Questao_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\sonaranalyzer.csharp\\8.40.0.48530\\sonaranalyzer.csharp.8.40.0.48530.nupkg.sha512"
+  ],
+  "logs": []
+}
