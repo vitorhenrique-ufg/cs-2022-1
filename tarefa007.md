@@ -14,3 +14,4 @@
   
   Portanto manter um código limpo e com qualidade é de extrema importância para um projeto bem definido e de sucesso, reduzindo o risco de falhas e garantindo que os requisitos esperados sejam atendidos, além de reduzir os riscos de complexidade e garantindo uma melhor manutenção no código durante o processo de desenvolvimento.
   
+  * Link para o artigo mencionado no texto: https://bring.com.br/blog/2019/09/10/qualidade-do-codigo-e-sua-importancia-para-um-desenvolvimento-bem-sucedido/
