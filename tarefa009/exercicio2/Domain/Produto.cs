@@ -6,7 +6,7 @@
 
         public decimal Preco { get; set; }
 
-        public virtual string? Descricao { get; set; }
+        public virtual string? Descricao => "Produto de informática";
 
         public string? DescricaoProduto { get; set; }
     }

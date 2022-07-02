@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows\\source\\repos\\Tarefa009\\exercicio2\\exercicio2.csproj": {}
+    "C:\\Users\\Windows\\Desktop\\Construção 2022\\cs-2022-1\\tarefa009\\exercicio2\\exercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows\\source\\repos\\Tarefa009\\exercicio2\\exercicio2.csproj": {
+    "C:\\Users\\Windows\\Desktop\\Construção 2022\\cs-2022-1\\tarefa009\\exercicio2\\exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\Tarefa009\\exercicio2\\exercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Windows\\Desktop\\Construção 2022\\cs-2022-1\\tarefa009\\exercicio2\\exercicio2.csproj",
         "projectName": "exercicio2",
-        "projectPath": "C:\\Users\\Windows\\source\\repos\\Tarefa009\\exercicio2\\exercicio2.csproj",
+        "projectPath": "C:\\Users\\Windows\\Desktop\\Construção 2022\\cs-2022-1\\tarefa009\\exercicio2\\exercicio2.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows\\source\\repos\\Tarefa009\\exercicio2\\obj\\",
+        "outputPath": "C:\\Users\\Windows\\Desktop\\Construção 2022\\cs-2022-1\\tarefa009\\exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
