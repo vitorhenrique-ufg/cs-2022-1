@@ -1,0 +1,15 @@
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\bin\Debug\net6.0\Tarefa009.exe
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\bin\Debug\net6.0\Tarefa009.deps.json
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\bin\Debug\net6.0\Tarefa009.runtimeconfig.json
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\bin\Debug\net6.0\Tarefa009.dll
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\bin\Debug\net6.0\Tarefa009.pdb
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.dll
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\refint\Tarefa009.dll
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.pdb
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\Tarefa009.genruntimeconfig.cache
+C:\Users\Windows\source\repos\Tarefa009\Tarefa009\obj\Debug\net6.0\ref\Tarefa009.dll
