@@ -1,33 +1,8 @@
-*.swp
-*.*~
-project.lock.json
-.DS_Store
-*.pyc
-
-# Visual Studio Code
-.vscode
-
-# User-specific files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-netcoreapp3.1/
-msbuild.log
-msbuild.err
-msbuild.wrn
-
-# Visual Studio 2019
-.vs/
+/tarefa009/Tarefa009/.vs/ProjectEvaluation
+/tarefa009/Tarefa009/obj
+/tarefa009/exercicio1/bin
+/tarefa009/exercicio1/.vs/Exercicio01/DesignTimeBuild
+/tarefa009/exercicio1/obj
+/tarefa009/exercicio2/bin
+/tarefa009/exercicio2/.vs/Exercicio01/DesignTimeBuild
+/tarefa009/exercicio2/obj
