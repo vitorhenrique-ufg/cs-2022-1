@@ -9,3 +9,5 @@ tarefa009/exercicio1/bin/Debug/net6.0
 tarefa009/exercicio2/bin/
 tarefa009/exercicio2/bin/Debug/
 tarefa009/exercicio2/bin/Debug/net6.0
+Aplication/src/Domain/bin/*
+Aplication/src/Domain/obj/*
