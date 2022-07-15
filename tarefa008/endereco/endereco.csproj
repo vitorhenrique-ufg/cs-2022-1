@@ -5,6 +5,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Users\Windows\Desktop\Construção 2022\cs-2022-1\tarefa008\endereco\docs\docs.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
