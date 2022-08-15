@@ -52,6 +52,19 @@ tarefa015/.vs
 tarefa015/bin/
 tarefa015/obj/
 
+tarefa016/.vs
+tarefa016/Closure/bin
+tarefa016/Closure/obj
+
+tarefa016/Configuração de software em tempo de execução/bin
+tarefa016/Configuração de software em tempo de execução/obj
+
+tarefa016/Generics/bin
+tarefa016/Generics/obj
+
+tarefa016/Logging/bin
+tarefa016/Logging/obj
+
 tarefa019/.vs
 tarefa019/Encapsulate_Field/bin
 tarefa019/Encapsulate_Field/obj
@@ -70,3 +83,5 @@ tarefa019/Extract_Subclass/obj
 
 tarefa019/Extract_Superclass/bin
 tarefa019/Extract_Superclass/obj
+*.sln
+*.csproj
